@@ -1,0 +1,17 @@
+.pdf[[:space:]] filter=lfs diff=lfs merge=lfs -text
+鸟哥的Linux私房菜_基础学习篇_第四版_鸟哥_Z_Library.pdf filter=lfs diff=lfs merge=lfs -text
+chemistry filter=lfs diff=lfs merge=lfs -text
+literary
+ filter=lfs diff=lfs merge=lfs -text
+philosophy filter=lfs diff=lfs merge=lfs -text
+费曼学习法_用输出倒逼输入_尹红心,_李伟_Z_Library.pdf filter=lfs diff=lfs merge=lfs -text
+索卡尔事件_与科学大战_后现代视野中的科学与人文的冲突_索卡尔等_Z_Library.pdf filter=lfs diff=lfs merge=lfs -text
+未来时间使用手册（日松冈真宏_著；张瑞婷_译）.epub filter=lfs diff=lfs merge=lfs -text
+English filter=lfs diff=lfs merge=lfs -text
+history filter=lfs diff=lfs merge=lfs -text
+math filter=lfs diff=lfs merge=lfs -text
+literary
+ filter=lfs diff=lfs merge=lfs -text
+literary
+ filter=lfs diff=lfs merge=lfs -text
+.epub filter=lfs diff=lfs merge=lfs -text
